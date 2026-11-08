@@ -4,7 +4,7 @@
 This is the table behind `nerves.html`. Please proofread it against your course material — the texts were written from the lecture *Peripheral Nerve System (I)* plus standard anatomy references, not copied from a single textbook.
 
 **命名規則 Naming:** 名單與名稱以實驗課 `Lab.txt` 為準（標 **Lab**）；Lab.txt 沒有、但講義有的神經標 **講義**，名稱依講義。
-**Sources of truth:** `Lab.txt` for the 16 listed nerves (+ the brachial plexus itself); the lecture for the 22 extra branches.
+**Sources of truth:** `Lab.txt` for the 16 listed nerves (+ the brachial plexus itself) and the 12 cranial nerves; the lecture for the 22 extra branches; the PNS study sheet for the explorer-only additions (see the last section).
 
 ## 需要你特別確認的地方 (Please check these)
 - **臂神經叢分支的神經根**：本表採用講義的數值；講義與常見教科書略有出入者在「備註」註明。
@@ -220,3 +220,275 @@ This is the table behind `nerves.html`. Please proofread it against your course 
 ### 外側足底神經 Lateral plantar n.
 - **行經 Course：** 脛神經經內踝後方分出的終支之一；斜向外側行於屈趾短肌與蹠方肌之間，支配足底大部分肌肉與外側 1½ 趾皮膚
 - **損傷說明 Clinical：** 損傷 → 足底外側感覺喪失，足骨間肌與蚓狀肌癱瘓（爪形趾）。
+
+---
+
+# 自由探索模式補充神經 (Explorer-only nerves)
+
+來源：講義整理文件「周邊神經系統 (PNS I & II) 考前整理」＋ `Lab.txt`（顱神經 CN I–XII、馬尾、背根、腹根）。這些神經**只出現在自由探索模式**，不會出現在考試／練習題庫中（題庫維持原本 38 條）。名稱以 Lab.txt 為準，Lab.txt 沒有的以講義為準（標「講義」）。
+Added to the free-explore mode only; the quiz pool is unchanged.
+
+## 需要你特別確認的地方 (Please check these)
+- **文字內容**是依講義整理文件、課本標準解剖學撰寫，請對照你的課本／講義校對。
+- **腮腺的支配 Parotid gland**：整理文件在 VII 與 IX 都寫了腮腺。標準教科書：腮腺分泌由 **IX**（經耳神經節）支配，VII 只是穿過腮腺（形成腮腺神經叢）。本表在面神經的備註中註明此差異；考試請以老師說法為準。
+- **頸神經叢分支的神經根**（小枕 C2、大耳 C2–C3、橫頸 C2–C3、鎖骨上 C3–C4）：整理文件只列名稱，神經根與分布依標準解剖學。
+- **臀皮神經 Cluneal nn.**：整理文件寫「腰、薦神經背支」；標準教科書中 superior（L1–L3 背支）、medial（S1–S3 背支）確為背支，但 inferior 來自大腿後皮神經（腹支，S2–S3）。
+- **顯示限制**：Z-Anatomy 沒有頰肌、鐙骨肌、莖突舌肌、舌內在肌與耳顳神經的 3D 模型；以下標示「僅文字」的項目不顯示 3D 路徑。迷走神經右側曲線含胸部分支，顯示範圍較廣。
+- 脊髓圓錐、終絲、齒狀韌帶、背根神經節（Lab.txt 脊髓項目）是中樞構造，尚未收錄。
+
+## 清單 (List)
+
+| 神經 Nerve | 群組 | 來源 | 3D | 神經根／連接 | 功能 | 孔道 | 支配肌肉 |
+|---|---|---|---|---|---|---|---|
+| **嗅神經** Olfactory n. (CN I) | 腦神經 | Lab | ✅ | 嗅球（olfactory bulb；端腦） | 特殊感覺：嗅覺 | 篩板（cribriform plate of ethmoid） | — |
+| **視神經** Optic n. (CN II) | 腦神經 | Lab | ✅ | 視網膜神經節細胞（ganglion cell）軸突 → 視交叉 → 視徑 → 視覺皮質 | 特殊感覺：視覺 | 視神經管（optic canal） | — |
+| **動眼神經** Oculomotor n. (CN III) | 腦神經 | Lab | ✅ | 中腦（動眼神經核；Edinger–Westphal 副交感核） | 運動（提上眼瞼肌＋4 條外眼肌）＋副交感（瞳孔括約肌、睫狀肌；經睫狀神經節） | 眶上裂（superior orbital fissure） | 提上眼瞼肌、上直肌、下直肌、內直肌、下斜肌 |
+| **滑車神經** Trochlear n. (CN IV) | 腦神經 | Lab | ✅ | 中腦背側（下丘水平；滑車神經核，纖維交叉至對側） | 運動（上斜肌） | 眶上裂（superior orbital fissure） | 上斜肌 |
+| **三叉神經** Trigeminal n. (CN V) | 腦神經 | Lab | ✅ | 腦橋（pons）外側；三叉神經節（trigeminal ganglion）分 V1、V2、V3 | 感覺（臉部、口鼻腔、牙齒）＋運動（V3：咀嚼肌） | V1 眶上裂；V2 圓孔；V3 卵圓孔（口訣 S-R-O：Standing Room Only） | 嚼肌、顳肌、內翼肌、外翼肌、下頷舌骨肌、二腹肌前腹 |
+| **眼神經（V1）** Ophthalmic n. (V1) | 腦神經 | 講義 | ✅ | 三叉神經節前緣（V1） | 感覺 | 眶上裂（superior orbital fissure） | — |
+| **上頷神經（V2）** Maxillary n. (V2) | 腦神經 | 講義 | ✅ | 三叉神經節中段（V2） | 感覺 | 圓孔（foramen rotundum）；終末眶下神經經下眶裂（inferior orbital fissure）入眶 | — |
+| **下頷神經（V3）** Mandibular n. (V3) | 腦神經 | 講義 | ✅ | 三叉神經節外側（感覺根）＋三叉神經運動根（V3） | 感覺＋運動（咀嚼肌） | 卵圓孔（foramen ovale） | 嚼肌、顳肌、內翼肌、外翼肌、下頷舌骨肌、二腹肌前腹 |
+| **舌神經** Lingual n. | 腦神經 | 講義 | ✅ | V3 後支 | 感覺（舌前 2/3 一般感覺） | 經卵圓孔（隨 V3 出顱） | — |
+| **下齒槽神經** Inferior alveolar n. | 腦神經 | 講義 | ✅ | V3 後支 | 感覺 | 下頷孔（mandibular foramen）→ 下頷管 → 頦孔 | — |
+| **頦神經** Mental n. | 腦神經 | 講義 | ✅ | 下齒槽神經終末支（V3） | 感覺 | 頦孔（mental foramen） | — |
+| **頰神經** Buccal n. | 腦神經 | 講義 | ✅ | V3 前支 | 感覺 | 經卵圓孔（隨 V3 出顱） | — |
+| **下頷舌骨肌神經** N. to mylohyoid | 腦神經 | 講義 | ✅ | 下齒槽神經（V3 後支） | 運動 | 經卵圓孔（隨 V3 出顱） | 下頷舌骨肌、二腹肌前腹 |
+| **耳顳神經** Auriculotemporal n. | 腦神經 | 講義 | 僅文字 | V3 後支 | 感覺（並攜帶腮腺的副交感纖維） | 經卵圓孔（隨 V3 出顱） | — |
+| **外展神經** Abducens n. (CN VI) | 腦神經 | Lab | ✅ | 腦橋延髓溝（腦橋下部；外展神經核） | 運動（外直肌） | 眶上裂（superior orbital fissure） | 外直肌 |
+| **面神經** Facial n. (CN VII) | 腦神經 | Lab | ✅ | 腦橋延髓溝外側（腦橋小腦角）；面神經核、上泌涎核、孤束核 | 運動（表情肌）＋特殊感覺（舌前 2/3 味覺，經鼓索）＋副交感（淚腺、頷下腺、舌下腺） | 內耳道 → 顏面神經管 → 莖乳孔（stylomastoid foramen） | 額肌、眼輪匝肌、口輪匝肌、顴大肌、顴小肌、頸闊肌、枕肌、笑肌、頦肌、降口角肌、降下唇肌、提上唇肌、提口角肌、鼻肌、降眉間肌、皺眉肌、二腹肌後腹、莖突舌骨肌 |
+| **鼓索** Chorda tympani | 腦神經 | 講義 | ✅ | 面神經（VII）在顏面神經管內的分支 | 特殊感覺（舌前 2/3 味覺）＋副交感（頷下腺、舌下腺） | 岩鼓裂（petrotympanic fissure） | — |
+| **前庭耳蝸神經** Vestibulocochlear n. (CN VIII) | 腦神經 | Lab | ✅ | 腦橋延髓溝外側（腦橋小腦角）；耳蝸核、前庭核 | 特殊感覺：聽覺（耳蝸部）＋平衡（前庭部） | 內耳道（internal acoustic meatus） | — |
+| **舌咽神經** Glossopharyngeal n. (CN IX) | 腦神經 | Lab | ✅ | 延髓（橄欖後溝；疑核、下泌涎核、孤束核） | 運動（莖突咽肌）＋副交感（腮腺，經耳神經節）＋感覺（咽、扁桃腺、中耳、舌後 1/3 一般感覺與味覺、頸動脈竇） | 頸靜脈孔（jugular foramen） | 莖突咽肌 |
+| **迷走神經** Vagus n. (CN X) | 腦神經 | Lab | ✅ | 延髓（橄欖後溝；背運動核、疑核、孤束核） | 運動（咽、喉、軟顎肌）＋副交感（心、肺、消化道至左結腸曲）＋感覺（咽喉、外耳道、胸腹臟器） | 頸靜脈孔（jugular foramen） | 咽縮肌（上、中、下） |
+| **副神經** Accessory n. (CN XI) | 腦神經 | Lab | ✅ | 脊髓根（C1–C5 前角，經枕骨大孔上行）＋顱根（延髓） | 運動 | 頸靜脈孔（jugular foramen；脊髓根先經枕骨大孔入顱） | 斜方肌、胸鎖乳突肌 |
+| **舌下神經** Hypoglossal n. (CN XII) | 腦神經 | Lab | ✅ | 延髓（錐體與橄欖之間；舌下神經核） | 運動（舌的內在與外在肌，palatoglossus 除外） | 舌下神經管（hypoglossal canal） | 頦舌肌、舌骨舌肌 |
+| **馬尾** Cauda equina | 脊髓神經根・肋間神經 | Lab | ✅ | L2–Co（脊髓圓錐以下的腰、薦、尾神經根） | 感覺與運動神經根（背根＋腹根） | 各自由對應的椎間孔穿出 | — |
+| **背根** Dorsal (posterior) root | 脊髓神經根・肋間神經 | Lab | ✅ | 感覺（傳入）纖維；細胞本體位於背根神經節（dorsal root ganglion） | 感覺（傳入） | 椎間孔（在此與腹根合併） | — |
+| **腹根** Ventral (anterior) root | 脊髓神經根・肋間神經 | Lab | ✅ | 運動（傳出）纖維；起自脊髓腹角運動神經元 | 運動（傳出） | 椎間孔（在此與背根合併） | — |
+| **肋間神經** Intercostal nn. (T1–T11) / subcostal n. (T12) | 脊髓神經根・肋間神經 | 講義 | ✅ | T1–T11 腹支＝肋間神經；T12 腹支＝肋下神經（T1 另參與臂叢、T12 另參與腰叢） | 感覺＋運動 | 椎間孔 | — |
+| **內側腓腸皮神經** Medial sural cutaneous n. | 薦神經叢 | 講義 | ✅ | L4–S3（脛神經分支，主要 S1–S2） |  |  | — |
+| **腓腸神經** Sural n. | 薦神經叢 | 講義 | ✅ | L5–S2（內側腓腸皮神經＋腓腸交通支） |  |  | — |
+| **小枕神經** Lesser occipital n. | 頸神經叢 | 講義 | 僅文字 | C2（常含 C3） |  |  | — |
+| **大耳神經** Great auricular n. | 頸神經叢 | 講義 | 僅文字 | C2–C3 |  |  | — |
+| **橫頸神經** Transverse cervical n. | 頸神經叢 | 講義 | 僅文字 | C2–C3 |  |  | — |
+| **鎖骨上神經** Supraclavicular nn. | 頸神經叢 | 講義 | 僅文字 | C3–C4 |  |  | — |
+| **枕下神經** Suboccipital n. (C1) | 脊神經背支 | 講義 | 僅文字 | C1 背支 |  |  | — |
+| **大枕神經** Greater occipital n. (C2) | 脊神經背支 | 講義 | 僅文字 | C2 背支 |  |  | — |
+| **第三枕神經** Third occipital n. (C3) | 脊神經背支 | 講義 | 僅文字 | C3 背支 |  |  | — |
+| **臀皮神經** Cluneal nn. (superior, medial, inferior) | 脊神經背支 | 講義 | 僅文字 | 上：L1–L3 背支；中：S1–S3 背支；下：S2–S3（來自大腿後皮神經） |  |  | — |
+| **副閉孔神經** Accessory obturator n. | 腰神經叢 | 講義 | 僅文字 | L3–L4 |  |  | 恥骨肌 |
+| **閉孔內肌神經** N. to obturator internus | 薦神經叢 | 講義 | 僅文字 | L5–S2 |  |  | 閉孔內肌 |
+| **外側腓腸皮神經** Lateral sural cutaneous n. | 薦神經叢 | 講義 | 僅文字 | L5–S2（腓總神經分支） |  |  | — |
+
+## 行經與臨床摘要 (Course and clinical notes)
+
+### 嗅神經 Olfactory n. (CN I)
+- **行經 Course：** 嗅黏膜（鼻腔頂部）的嗅細胞軸突集合成約 20 條細小的嗅絲，穿過篩骨篩板進入顱前窩，終止於嗅球（講義：纖維來自嗅黏膜）
+- **損傷說明 Clinical：** 篩板骨折、頭部外傷或顱前窩病變 → 嗅覺喪失（anosmia）；嗅絲撕裂時可伴腦脊髓液鼻漏。
+- **皮膚／感覺 Sensory：** 嗅覺（鼻腔上部嗅黏膜）
+
+### 視神經 Optic n. (CN II)
+- **行經 Course：** 視網膜神經節細胞的軸突集成視神經，經視神經管入顱；於視交叉（optic chiasma）處部分纖維交叉，續為視徑（optic tract），最後到達視覺皮質（講義：optic canal → optic chiasma → optic tract → visual cortex）
+- **損傷說明 Clinical：** 視神經受損 → 同側眼失明、無直接對光反射；視交叉中央受壓（如腦下垂體腫瘤）→ 雙顳側偏盲；視徑受損 → 對側同向偏盲。
+- **皮膚／感覺 Sensory：** 視覺（視網膜）
+
+### 動眼神經 Oculomotor n. (CN III)
+- **行經 Course：** 自中腦腳間窩出腦，穿過海綿竇外側壁，經眶上裂入眶，分成上支（上直肌、提上眼瞼肌）與下支（內直肌、下直肌、下斜肌，並帶副交感纖維至睫狀神經節）
+- **損傷說明 Clinical：** 講義：CN III 麻痺 → (1) ptosis 眼瞼下垂 (2) 無對光反射（瞳孔散大）(3) 眼球外展（只剩 VI 的外直肌與 IV 的上斜肌在拉，眼球呈「向下外」）(4) 無調節作用（睫狀肌失去副交感支配）。
+- **備註 Note：** 眼球運動口訣：LR6 SO4——外直肌歸 VI，上斜肌歸 IV，其餘全歸 III。
+
+### 滑車神經 Trochlear n. (CN IV)
+- **行經 Course：** 唯一由腦幹背側出腦的腦神經，繞過大腦腳向前，經海綿竇外側壁、眶上裂入眶，支配上斜肌（肌腱穿過滑車）
+- **損傷說明 Clinical：** 滑車神經損傷 → 上斜肌麻痺：眼球內收時向下運動受限，病人下樓梯或閱讀時出現複視，常以頭歪向健側代償。
+- **備註 Note：** 口訣 LR6 SO4：上斜肌（Superior Oblique）歸 IV。
+
+### 三叉神經 Trigeminal n. (CN V)
+- **行經 Course：** 腦神經中最大，由腦橋出腦；於顳骨岩部尖端形成三叉神經節，分成 V1 眼支（眶上裂）、V2 上頷支（圓孔）、V3 下頷支（卵圓孔）。V1、V2 純感覺，V3 兼含感覺與運動
+- **損傷說明 Clinical：** V3 運動根受損 → 同側咀嚼肌無力，張口時下頷偏向患側；感覺支受損 → 對應區域感覺喪失；三叉神經痛（trigeminal neuralgia）為劇烈短暫的電擊樣臉部疼痛。
+- **皮膚／感覺 Sensory：** 臉部皮膚（V1 前額與上眼瞼、V2 面頰與上唇、V3 下頷與頦部）、口鼻腔黏膜、牙齒、舌前 2/3 一般感覺
+- **備註 Note：** 本項顯示三叉神經全部分支；V1／V2／V3 可在清單中分開檢視。
+
+### 眼神經（V1） Ophthalmic n. (V1)
+- **行經 Course：** 自三叉神經節發出，穿過海綿竇外側壁，經眶上裂入眶，分為額神經、淚腺神經與鼻睫神經
+- **損傷說明 Clinical：** V1 受損 → 前額與上眼瞼感覺喪失，角膜反射傳入支中斷（角膜易受傷）。
+- **皮膚／感覺 Sensory：** 前額與頭皮前部、上眼瞼、鼻背、角膜與眼球、鼻腔上部黏膜
+
+### 上頷神經（V2） Maxillary n. (V2)
+- **行經 Course：** 自三叉神經節發出，經圓孔入翼顎窩，再經下眶裂入眶、沿眶下溝與眶下管成為眶下神經，由眶下孔穿出至面部
+- **損傷說明 Clinical：** V2 受損 → 面頰、上唇、上排牙齒與牙齦、硬顎感覺喪失。
+- **皮膚／感覺 Sensory：** 下眼瞼、鼻側、面頰、上唇、硬顎與軟顎、鼻腔後部、上排牙齒與牙齦
+
+### 下頷神經（V3） Mandibular n. (V3)
+- **行經 Course：** 感覺根與運動根合併後經卵圓孔出顱入顳下窩，分前支與後支。前支（運動為主）：嚼肌神經 → masseter、深顳神經 → temporalis、外翼肌神經；buccal n. 是此支中的感覺神經。後支：耳顳神經（auriculotemporal）、舌神經（lingual）、下齒槽神經（inferior alveolar → mental n.；另分出 mylohyoid n. → mylohyoid 與 digastric 前腹）
+- **損傷說明 Clinical：** V3 受損 → 同側咀嚼肌（嚼肌、顳肌、翼肌）無力，張口時下頷偏向患側；下唇、頦部與舌前 2/3 一般感覺喪失。
+- **皮膚／感覺 Sensory：** 下唇、下頷與頦部皮膚、耳前與顳部、頰黏膜、下排牙齒與牙齦、舌前 2/3 一般感覺
+
+### 舌神經 Lingual n.
+- **行經 Course：** V3 後支分出，經下頷支內側下行，繞過頷下腺導管至舌前 2/3；與鼓索（chorda tympani）會合，鼓索帶舌前 2/3 味覺並支配舌下腺與頷下腺
+- **損傷說明 Clinical：** 舌神經損傷（如下頷智齒拔除）→ 舌前 2/3 痛溫觸覺喪失；味覺仍由鼓索傳導，但鼓索與舌神經同行，常一併受損。
+- **皮膚／感覺 Sensory：** 舌前 2/3 的一般感覺（痛、溫、觸）與口底黏膜；味覺由 VII（鼓索）負責
+- **備註 Note：** 舌頭整合表：前 2/3 一般感覺＝V3（lingual），味覺＝VII（chorda tympani）；後 1/3 一般感覺與味覺皆＝IX；運動＝XII。
+
+### 下齒槽神經 Inferior alveolar n.
+- **行經 Course：** V3 後支，經下頷孔進入下頷管，分布下排牙齒與牙齦，終末由頦孔穿出成為頦神經（mental n.）；入下頷孔前先分出 mylohyoid 神經
+- **損傷說明 Clinical：** 下頷骨骨折或下頷智齒手術可傷及 → 同側下唇與頦部麻木。
+- **皮膚／感覺 Sensory：** 下排牙齒與牙齦（終末為頦神經）
+
+### 頦神經 Mental n.
+- **行經 Course：** 下齒槽神經的終末分支，由頦孔穿出，分布下唇、頦部皮膚與前牙齦
+- **損傷說明 Clinical：** 頦孔處受傷（如下頷骨骨折）→ 同側下唇與頦部麻木。
+- **皮膚／感覺 Sensory：** 下唇、頦部皮膚與前方牙齦
+
+### 頰神經 Buccal n.
+- **行經 Course：** V3 前支（運動為主）中的感覺神經：穿過顳肌與嚼肌之間，到達頰肌表面，分布頰部皮膚與黏膜（講義：buccal n. 是這支裡的感覺神經）
+- **損傷說明 Clinical：** 頰神經僅含感覺纖維；頰肌本身由面神經（VII）支配。
+- **皮膚／感覺 Sensory：** 頰部皮膚與頰黏膜、下頷臼齒頰側牙齦
+
+### 下頷舌骨肌神經 N. to mylohyoid
+- **行經 Course：** 在進入下頷孔前由下齒槽神經分出，沿下頷骨內側的下頷舌骨溝前行，支配 mylohyoid 與 digastric 前腹（講義）
+- **損傷說明 Clinical：** 臨床意義小。
+
+### 耳顳神經 Auriculotemporal n.
+- **行經 Course：** V3 後支；以兩根環繞腦膜中動脈後匯合，行於腮腺深面，在顳顎關節後方上行，隨顳淺動脈分布於耳前與顳部；並攜帶來自舌咽神經（經耳神經節）的腮腺副交感纖維
+- **損傷說明 Clinical：** 腮腺手術損傷副交感纖維再生錯接汗腺 → Frey 症候群（進食時耳前顳部流汗、潮紅）。
+- **皮膚／感覺 Sensory：** 耳前方、顳部頭皮、外耳道與鼓膜外側面、顳顎關節
+- **備註 Note：** Z-Anatomy 無耳顳神經 3D 路徑，故僅顯示文字資料。
+
+### 外展神經 Abducens n. (CN VI)
+- **行經 Course：** 自腦橋延髓溝出腦，向上經顱底斜坡、穿海綿竇（緊貼頸內動脈外側），由眶上裂入眶，支配外直肌；顱內行程長，易受顱內壓升高影響
+- **損傷說明 Clinical：** 講義：abducent paralysis → 外直肌失去支配，眼球無法外展（靜止時呈內斜），出現水平複視。
+- **備註 Note：** 口訣 LR6：外直肌（Lateral Rectus）歸 VI。講義稱「外旋神經」，Lab.txt 稱「外展神經」。
+
+### 面神經 Facial n. (CN VII)
+- **行經 Course：** 自腦橋小腦角出腦，與前庭耳蝸神經同入內耳道，穿過顏面神經管（途中分出鼓索等分支），由莖乳孔出顱，穿入腮腺並於其內分成 5 組終末支（顳、顴、頰、下頷緣、頸支）支配表情肌
+- **損傷說明 Clinical：** Bell 氏麻痺（Bell's palsy）：顏面神經在顏面神經管或莖乳孔附近受損 → 同側整個臉（含額部）表情肌癱瘓：額紋消失、閉眼不全、口角下垂；若為中樞性（上運動神經元）病變，額部因雙側支配而保留。
+- **皮膚／感覺 Sensory：** 外耳道與耳廓後方小區域（感覺）；舌前 2/3 味覺（經鼓索）
+- **備註 Note：** 講義在 VII 與 IX 都列了 parotid gland。標準教科書：腮腺的分泌由 IX（經耳神經節）支配，VII 的分支只是穿過腮腺（形成腮腺神經叢）；VII 的副交感管淚腺、頷下腺與舌下腺。考試以老師說法為準，但若問「哪條神經支配腮腺」，優先答 IX。Z-Anatomy 無頰肌與鐙骨肌模型，這兩條肌肉未顯示。
+
+### 鼓索 Chorda tympani
+- **行經 Course：** 在顏面神經管內由 VII 分出，穿過鼓室（跨越鼓膜內側面）後經岩鼓裂出顱，在顳下窩加入舌神經，隨舌神經分布到舌前 2/3
+- **損傷說明 Clinical：** 中耳手術或中耳炎可傷及鼓索 → 舌前 2/3 味覺喪失（金屬味），唾液分泌減少。
+- **皮膚／感覺 Sensory：** 舌前 2/3 的味覺
+
+### 前庭耳蝸神經 Vestibulocochlear n. (CN VIII)
+- **行經 Course：** 由耳蝸部（cochlear）與前庭部（vestibular）兩條組成，自內耳經內耳道進入顱後窩，於腦橋小腦角入腦幹
+- **損傷說明 Clinical：** 講義：Cochlear 受損 → 耳聾或耳鳴；Vestibular 受損 → 頭暈、眼球震顫（nystagmus）。腦橋小腦角的聽神經瘤（vestibular schwannoma）是常見病因。
+- **皮膚／感覺 Sensory：** 聽覺與平衡覺（內耳）
+- **備註 Note：** Z-Anatomy 僅有左側的耳蝸神經曲線，右側只顯示前庭耳蝸神經與前庭神經。
+
+### 舌咽神經 Glossopharyngeal n. (CN IX)
+- **行經 Course：** 經頸靜脈孔出顱，繞過莖突咽肌後緣，沿其外側前行入咽，終末分支至舌後 1/3 與扁桃腺；沿途分出鼓室神經（經耳神經節支配腮腺）、頸動脈竇神經
+- **損傷說明 Clinical：** IX 受損 → 舌後 1/3 一般感覺與味覺喪失、咽反射（傳入）減弱、吞嚥時不適；舌咽神經痛為咽喉與舌根的劇烈疼痛。
+- **皮膚／感覺 Sensory：** 舌後 1/3（一般感覺＋味覺）、咽黏膜、扁桃腺、中耳黏膜、外耳道小區域
+- **備註 Note：** 講義：運動＝stylopharyngeus（吞嚥）、腮腺（分泌唾液）；感覺＝咽、外耳與中耳黏膜、舌後 1/3 一般感覺＋味覺。
+
+### 迷走神經 Vagus n. (CN X)
+- **行經 Course：** 腦神經中最長；經頸靜脈孔出顱，在頸動脈鞘內（頸內動脈／頸總動脈與頸內靜脈之間）下行入胸，沿食道形成食道叢，隨食道穿食道裂孔入腹；右迴返喉神經繞鎖骨下動脈、左迴返喉神經繞主動脈弓後上行
+- **損傷說明 Clinical：** 迴返喉神經損傷（如甲狀腺手術）→ 聲音嘶啞；迷走神經幹受損 → 同側軟顎無法抬高（懸壅垂偏向健側）、吞嚥困難、聲音改變。
+- **皮膚／感覺 Sensory：** 咽、喉黏膜與外耳道、耳廓小區域（感覺）
+- **備註 Note：** Z-Anatomy 的迷走神經曲線左側僅到頸部，右側延伸至胸部。運動支配另含軟顎、喉內肌（本模型僅顯示咽縮肌）。
+
+### 副神經 Accessory n. (CN XI)
+- **行經 Course：** 脊髓根自頸髓外側上行，經枕骨大孔入顱，與顱根合併後經頸靜脈孔出顱；穿過（或繞過）胸鎖乳突肌後，在頸後三角橫越，走向斜方肌深面
+- **損傷說明 Clinical：** 副神經損傷（如頸後三角手術）→ 斜方肌癱瘓：肩下垂、聳肩與上肢上舉（>90°）無力、肩胛骨外移；胸鎖乳突肌無力 → 頭轉向對側困難。
+- **備註 Note：** 講義：支配 trapezius 與 sternocleidomastoid，管頭頸運動。
+
+### 舌下神經 Hypoglossal n. (CN XII)
+- **行經 Course：** 自延髓錐體與橄欖之間出腦，經舌下神經管出顱，在頸動脈鞘內下行至下頷角水平，轉向前方（越過頸外動脈）至舌下，進入舌肌
+- **損傷說明 Clinical：** 舌下神經損傷 → 同側舌肌麻痺與萎縮（可見肌束顫動）；伸舌時舌尖偏向患側（因健側的頦舌肌把舌推向患側）；咀嚼、吞嚥與說話受影響。
+- **備註 Note：** Z-Anatomy 無莖突舌肌與舌內在肌的獨立模型，僅顯示頦舌肌與舌骨舌肌。
+
+### 馬尾 Cauda equina
+- **行經 Course：** 脊髓圓錐（成人約在 L1–L2 水平）以下，由腰、薦、尾神經的背根與腹根在硬膜囊（蛛網膜下腔）內垂直下行，形如馬尾，各自在對應的椎間孔穿出；終絲（terminal filum）把脊髓末端固定於尾骨
+- **損傷說明 Clinical：** 馬尾症候群（cauda equina syndrome，如椎間盤巨大突出）→ 下肢無力與麻木、鞍區（會陰）感覺喪失、膀胱與直腸功能障礙，屬外科急症。
+
+### 背根 Dorsal (posterior) root
+- **行經 Course：** 由脊髓後外側溝進入脊髓的感覺神經根，在椎間孔內膨大為背根神經節，之後與腹根合併成脊神經，隨即分為背支與腹支
+- **損傷說明 Clinical：** 背根受損（如椎間盤突出壓迫神經根）→ 對應皮節的感覺異常與疼痛（根性疼痛）。
+
+### 腹根 Ventral (anterior) root
+- **行經 Course：** 由脊髓前外側溝發出的運動神經根，在椎間孔處與背根合併成脊神經；脊神經出椎間孔後立即分為背支與腹支（只有腹支會組成神經叢）
+- **損傷說明 Clinical：** 腹根受損 → 對應肌節的下運動神經元性無力與萎縮。
+
+### 肋間神經 Intercostal nn. (T1–T11) / subcostal n. (T12)
+- **行經 Course：** 胸神經腹支不組成神經叢，直接沿肋間隙前行：位於內、最內肋間肌之間，在肋骨下緣的肋溝內（由上而下為靜脈、動脈、神經，VAN），支配胸腹壁的皮膚與肌肉
+- **損傷說明 Clinical：** 肋間神經痛或帶狀疱疹（shingles）沿單一皮節呈帶狀分布；腹壁肌與皮膚由 T7–T12 供應。
+- **皮膚／感覺 Sensory：** 胸腹壁皮膚；皮節定位點：T4 或 T5＝乳頭水平、T10＝肚臍（講義最常考）
+- **備註 Note：** 講義：T1–T11 腹支＝intercostal n.，T12＝subcostal n.，支配胸腹壁皮膚和肌肉。
+
+### 內側腓腸皮神經 Medial sural cutaneous n.
+- **行經 Course：** 由脛神經在膕窩發出，沿小腿後面兩頭腓腸肌之間下行，穿出深筋膜後與腓總神經的腓腸交通支會合成腓腸神經（sural n.）
+- **損傷說明 Clinical：** 常取作神經移植材料；損傷僅造成小腿後外側小區域感覺喪失。
+- **皮膚／感覺 Sensory：** 小腿後外側皮膚（與外側腓腸皮神經共同構成腓腸神經）
+- **備註 Note：** 講義：tibial 的其他分支 ＝ medial sural cutaneous、plantar n.（lateral + medial plantar）。
+
+### 腓腸神經 Sural n.
+- **行經 Course：** 由內側腓腸皮神經與腓總神經的腓腸交通支（來自外側腓腸皮神經）會合而成；伴小隱靜脈繞外踝後方，分布足外側緣與小趾
+- **損傷說明 Clinical：** 腓腸神經為純感覺神經，常用於神經活體切片與移植；損傷僅造成足外側緣麻木。
+- **皮膚／感覺 Sensory：** 小腿下外側、外踝後方、足外側緣與小趾外側皮膚
+- **備註 Note：** 講義列有 lateral sural cutaneous（來自腓總神經）；其交通支在本模型中與內側腓腸皮神經會合。
+
+### 小枕神經 Lesser occipital n.
+- **行經 Course：** 頸神經叢的皮支；沿胸鎖乳突肌後緣上行，至耳後與枕部外側頭皮
+- **損傷說明 Clinical：** 頸部手術可傷及，造成耳後頭皮麻木。
+- **皮膚／感覺 Sensory：** 耳後與枕部外側的頭皮
+- **備註 Note：** 講義只列出名稱屬頸神經叢（C1–C4）；神經根與分布依標準解剖學。
+
+### 大耳神經 Great auricular n.
+- **行經 Course：** 頸神經叢最大的皮支；繞胸鎖乳突肌後緣向上，沿該肌表面斜行至耳廓與腮腺區
+- **損傷說明 Clinical：** 腮腺或頸部手術常傷及 → 耳垂與下頷角區麻木。
+- **皮膚／感覺 Sensory：** 耳廓（下部與後面）、腮腺區與下頷角的皮膚
+- **備註 Note：** 講義只列出名稱屬頸神經叢；神經根與分布依標準解剖學。
+
+### 橫頸神經 Transverse cervical n.
+- **行經 Course：** 繞胸鎖乳突肌後緣橫行向前，分布頸前外側皮膚
+- **損傷說明 Clinical：** 臨床意義小。
+- **皮膚／感覺 Sensory：** 頸前外側的皮膚
+- **備註 Note：** 講義只列出名稱屬頸神經叢；神經根與分布依標準解剖學。
+
+### 鎖骨上神經 Supraclavicular nn.
+- **行經 Course：** 自胸鎖乳突肌後緣出，在頸後三角向下，越過鎖骨前方，分為內側、中間、外側支
+- **損傷說明 Clinical：** 鎖骨骨折或頸部手術可傷及；肩尖皮膚的痛覺（如膈下刺激的牽涉痛）走 C3–C4。
+- **皮膚／感覺 Sensory：** 鎖骨上方的頸下部、肩上部與胸壁上部皮膚
+- **備註 Note：** 講義只列出名稱屬頸神經叢；神經根與分布依標準解剖學。
+
+### 枕下神經 Suboccipital n. (C1)
+- **行經 Course：** C1 的背支，穿出於枕骨與寰椎之間（椎動脈後方），支配枕下肌群（rectus capitis posterior major/minor、obliquus capitis superior/inferior）；沒有皮支
+- **損傷說明 Clinical：** 講義：C1 背支＝suboccipital n.，沒有皮支，所以 C1 沒有 dermatome。
+- **皮膚／感覺 Sensory：** 無皮膚分布（所以 C1 沒有 dermatome）
+
+### 大枕神經 Greater occipital n. (C2)
+- **行經 Course：** C2 背支最大的分支，繞過下斜肌下緣，穿斜方肌與頸半棘肌，與枕動脈同行上達頭頂
+- **損傷說明 Clinical：** 枕大神經受壓或發炎 → 後腦至頭頂的陣發性疼痛（枕神經痛）。
+- **皮膚／感覺 Sensory：** 後頭部至頭頂的頭皮
+- **備註 Note：** 講義：C2 背支＝greater occipital n.。
+
+### 第三枕神經 Third occipital n. (C3)
+- **行經 Course：** C3 背支的內側支，穿斜方肌，分布頸上後部與枕下部皮膚；並支配 C2–C3 小關節（z-joint）
+- **損傷說明 Clinical：** C2–C3 小關節疼痛（如揮鞭傷）可引起頸源性頭痛。
+- **皮膚／感覺 Sensory：** 頸上後部與枕下部的皮膚
+- **備註 Note：** 講義：C3 背支＝third occipital n.。
+
+### 臀皮神經 Cluneal nn. (superior, medial, inferior)
+- **行經 Course：** 腰、薦神經背支的皮支，穿出胸腰筋膜與臀大肌，分布臀部皮膚：superior（越過髂嵴）、medial（薦骨後方）、inferior（來自大腿後皮神經，繞臀大肌下緣上行）
+- **損傷說明 Clinical：** 講義：腰、薦神經背支分布到臀部皮膚，即 cluneal nn.（superior、medial、inferior）。標準教科書：inferior cluneal n. 來自腹支（posterior femoral cutaneous n.，S2–S3），而非背支。
+- **皮膚／感覺 Sensory：** 臀部上、中、下三區皮膚
+
+### 副閉孔神經 Accessory obturator n.
+- **行經 Course：** 約 10% 的人具有；自腰神經叢（L3–L4）發出，沿腰大肌內緣下行、越過恥骨上支前方，支配恥骨肌並與閉孔神經相連
+- **損傷說明 Clinical：** 臨床意義小；恥骨肌同時受股神經與閉孔神經（並常有副閉孔神經）支配。
+- **皮膚／感覺 Sensory：** 無明確皮膚分布
+- **備註 Note：** 講義僅列名稱，Z-Anatomy 無此神經 3D 路徑；支配肌肉依標準解剖學。
+
+### 閉孔內肌神經 N. to obturator internus
+- **行經 Course：** 自薦神經叢發出，經坐骨大孔出骨盆（梨狀肌下方），繞過坐骨棘後經坐骨小孔再進入閉孔內肌；並發出分支支配上孖肌
+- **損傷說明 Clinical：** 臨床意義小。
+- **皮膚／感覺 Sensory：** 無皮膚分布
+- **備註 Note：** 講義列出 n. to piriformis / quadratus femoris / obturator internus；本神經僅顯示文字資料。
+
+### 外側腓腸皮神經 Lateral sural cutaneous n.
+- **行經 Course：** 腓總神經在膕窩發出，沿小腿外側上部下行，分布小腿外側皮膚；並發出腓腸交通支與內側腓腸皮神經會合成腓腸神經
+- **損傷說明 Clinical：** 腓骨頸處損傷時常與腓總神經一併受影響。
+- **皮膚／感覺 Sensory：** 小腿外側上部皮膚
+- **備註 Note：** 講義列為 common peroneal 的其他分支；Z-Anatomy 僅有其腓腸交通支，已併入「腓腸神經」的 3D 模型。
+

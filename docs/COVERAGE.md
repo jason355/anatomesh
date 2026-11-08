@@ -161,10 +161,14 @@
 
 # 周邊神經覆蓋率 (Peripheral nerves — Lab.txt coverage)
 
-來源：`Lab.txt` 第 163–182 行（頸、臂、腰、薦神經叢及其神經）。顱神經與脊髓構造（Lab.txt 第 145–159 行）尚未收錄。
+來源：`Lab.txt` 第 140–182 行（脊髓、顱神經、頸／臂／腰／薦神經叢及其神經）。顱神經與馬尾、背根、腹根**只在自由探索模式**；脊髓圓錐、終絲、齒狀韌帶、背根神經節（中樞構造）尚未收錄。
 
 | Lab.txt 原文 | 狀態 | 備註 |
 |---|---|---|
+| Cauda equina（馬尾） | ✅ 探索模式 | 3D |
+| Dorsal root（背根）／Ventral root（腹根） | ✅ 探索模式 | 3D（背根神經節未單獨建模） |
+| Conus medullaris／Terminal filum／Denticulate ligament／Dorsal root ganglion | ❌ | 中樞構造，尚未收錄 |
+| CN I Olfactory／II Optic／III Oculomotor／IV Trochlear／V Trigeminal／VI Abducens／VII Facial／VIII Vestibulocochlear／IX Glossopharyngeal／X Vagus／XI Accessory／XII Hypoglossal | ✅ 探索模式 | 12 對全部有 3D；另含 V1／V2／V3、舌神經、下齒槽神經、頦神經、頰神經、下頷舌骨肌神經、鼓索（講義），耳顳神經僅文字 |
 | Cervical plexus（頸神經叢） | ✅ | 僅列於神經叢分類 |
 | Phrenic n.（膈神經） | ⚠️ 僅文字題 | Z-Anatomy 無 3D 路徑：不出辨認／編號題 |
 | Brachial plexus（臂神經叢） | ✅ | 3D 臂神經叢（根、幹、股、束） |

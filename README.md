@@ -14,8 +14,8 @@
 | `index.html` | Landing page (module menu, per-module score history) |
 | `src/bones.html` | 3D bone quiz — skull, spine, thorax, girdles, limbs; foramina, joints, ligaments |
 | `src/muscles.html` | 3D muscle quiz — 60 Lab-list muscles: name, locate, origin, insertion, action, nerve supply, compartment |
-| `src/nerves.html` | 3D peripheral-nerve quiz — cervical, brachial, lumbar and sacral plexuses (16 Lab-list nerves + 22 lecture branches): name, locate, roots, plexus, origin in brachial plexus, muscles supplied, cutaneous area, course, injury |
-| *(next)* | Cranial nerves / CNS |
+| `src/nerves.html` | 3D peripheral-nerve quiz — cervical, brachial, lumbar and sacral plexuses (16 Lab-list nerves + 22 lecture branches): name, locate, roots, plexus, origin in brachial plexus, muscles supplied, cutaneous area, course, injury. The free-explore mode additionally contains the 12 cranial nerves and their main branches, cauda equina / spinal roots, intercostal nerves, sural nerves and the cervical-plexus / dorsal-ramus branches (explorer only, not in the quiz) |
+| *(next)* | CNS (spinal cord, brain structures) |
 
 ## Features
 - Exam (timed), practice (instant feedback) and Explorer modes; lenient typo grading with a correction note
